@@ -1,0 +1,62 @@
+[
+  {
+    "destination_slug": "amicalola-falls-state-park",
+    "source_type": "georgia_dnr",
+    "source_url": "https://explore.gastateparks.org/Parks/",
+    "source_reference": null
+  },
+  {
+    "destination_slug": "vogel-state-park",
+    "source_type": "georgia_dnr",
+    "source_url": "https://explore.gastateparks.org/Parks/",
+    "source_reference": null
+  },
+  {
+    "destination_slug": "tallulah-gorge-state-park",
+    "source_type": "georgia_dnr",
+    "source_url": "https://explore.gastateparks.org/Parks/",
+    "source_reference": null
+  },
+  {
+    "destination_slug": "cloudland-canyon-state-park",
+    "source_type": "georgia_dnr",
+    "source_url": "https://explore.gastateparks.org/Parks/",
+    "source_reference": null
+  },
+  {
+    "destination_slug": "sweetwater-creek-state-park",
+    "source_type": "georgia_dnr",
+    "source_url": "https://explore.gastateparks.org/Parks/",
+    "source_reference": null
+  },
+  {
+    "destination_slug": "providence-canyon-state-park",
+    "source_type": "georgia_dnr",
+    "source_url": "https://explore.gastateparks.org/Parks/",
+    "source_reference": null
+  },
+  {
+    "destination_slug": "fd-roosevelt-state-park",
+    "source_type": "georgia_dnr",
+    "source_url": "https://explore.gastateparks.org/Parks/",
+    "source_reference": null
+  },
+  {
+    "destination_slug": "skidaway-island-state-park",
+    "source_type": "georgia_dnr",
+    "source_url": "https://explore.gastateparks.org/Parks/",
+    "source_reference": null
+  },
+  {
+    "destination_slug": "crooked-river-state-park",
+    "source_type": "georgia_dnr",
+    "source_url": "https://explore.gastateparks.org/Parks/",
+    "source_reference": null
+  },
+  {
+    "destination_slug": "chattahoochee-island-ford",
+    "source_type": "nps",
+    "source_url": "https://www.nps.gov/chat/planyourvisit/directions.htm",
+    "source_reference": null
+  }
+]

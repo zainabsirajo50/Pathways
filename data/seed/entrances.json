@@ -1,0 +1,12 @@
+[
+  {
+    "destination_slug": "chattahoochee-island-ford",
+    "name": "Island Ford entrance",
+    "address": "8800 Roberts Drive, Sandy Springs, GA 30350",
+    "latitude": 33.994622,
+    "longitude": -84.333933,
+    "is_primary": true,
+    "routing_status": "untested",
+    "verified_at": null
+  }
+]
